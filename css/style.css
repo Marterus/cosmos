@@ -1,0 +1,101 @@
+﻿body{
+	margin:0 auto;
+	width: 1100px;
+}
+
+.header{
+	text-align:center;
+	height:20px;
+	font-size:16px;
+	background:#48bb7a;
+}
+
+.left{
+	text-align:center;
+	width:160px;
+	height:560px;
+	font-size:16px;
+	background:#FFFFFF;
+	float:left;
+}
+
+.logo{
+	text-align:center;
+	width:160px;
+	height:100px;
+	font-size:16px;
+	background:#bbb448;
+}
+
+.manager{
+	text-align:center;
+	width:160px;
+	height:460px;
+	font-size:16px;
+	background:#48bbb4;
+}
+
+.center{
+	text-align:center;
+	width:740px;
+	height:560px;
+	font-size:16px;
+	background:#FFFFFF;
+	float:left;
+}
+
+.title{
+	text-align:center;
+	width:740px;
+	height:100px;
+	font-size:16px;
+	background:#484fbb;
+}
+
+.screen{
+	text-align:center;
+	width:740px;
+	height:460px;
+	font-size:16px;
+	background:#b448bb;
+}
+
+.right{
+	text-align:center;
+	width:200px;
+	height:560px;
+	font-size:16px;
+	background:#FFFFFF;
+	float:right;
+}
+
+.info{
+	text-align:center;
+	width:200px;
+	height:360px;
+	font-size:16px;
+	background:#bbb448;
+}
+
+.comunicator{
+	text-align:center;
+	width:200px;
+	height:200px;
+	font-size:16px;
+	background:#48bbb4;
+}
+
+.ticker{
+	text-align:center;
+	height:40px;
+	font-size:24px;
+	background:#484fbb;
+	 clear:both
+}
+
+.footer{
+	text-align:center;
+	height:20px;
+	font-size:16px;
+	background:#48bb7a;
+}
