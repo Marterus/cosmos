@@ -1,7 +1,5 @@
 <?php
- 
 
- 
 //# include data base
 include "sql.php";
 include "lib.php";
@@ -58,7 +56,7 @@ switch ($_POST['action']):
 	
  		break;	
 endswitch;
-?>
+
      
 
 
